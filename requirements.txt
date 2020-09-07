@@ -3,3 +3,7 @@ py
 pytest
 mock
 lxml
+
+pyshark
+psutil
+
